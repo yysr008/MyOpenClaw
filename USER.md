@@ -11,6 +11,8 @@
 - **项目仓库:** github.com/yysr008/MyOpenClaw
 - **工作路径:** /home/codespace/.openclaw/workspace
 - **技术栈:** Next.js (React) + TypeScript + Tailwind CSS
+- **Codespace 公网链接:** https://urban-space-chainsaw-gj7xg67jp673pvjg-18789.app.github.dev/chat?session=main
+- **注意:** 运行前端项目时需使用不同端口，避免与 18789 冲突
 
 ---
 
