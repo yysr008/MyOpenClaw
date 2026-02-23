@@ -7,7 +7,9 @@
 
 ## Context
 
-_刚开始合作，慢慢了解中..._
+- **运行环境:** GitHub Codespace
+- **项目仓库:** github.com/yysr008/MyOpenClaw
+- **工作路径:** /home/codespace/.openclaw/workspace
 
 ---
 
