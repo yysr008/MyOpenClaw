@@ -10,6 +10,7 @@
 - **运行环境:** GitHub Codespace
 - **项目仓库:** github.com/yysr008/MyOpenClaw
 - **工作路径:** /home/codespace/.openclaw/workspace
+- **技术栈:** Next.js (React) + TypeScript + Tailwind CSS
 
 ---
 
